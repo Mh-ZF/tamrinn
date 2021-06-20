@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    font-family: 'Tahoma', serif;
+}
+h1{
+    width: 20%;
+    margin: 0 auto;
+    font-family: 'Tahoma' , cursive;
+    font-size: 60px;
+    color:#449df0;
+}
+.work{
+    font-family: 'Tahoma', sans-serif;
+    font-size: 14px;
+    color: #a87a17;
+    
+}
+
+h2{
+    font-family: 'Tahoma', sans-serif;
+    font-size: 1.5rem;
+    color: #b88b0f;
+}
+.dev{
+    text-decoration: underline;
+    font-size: 14px;
+
+}
+h3{
+    font-family: 'Tahoma' , sans-serif;
+    color: rgb(153, 121, 17);
+}
+.top-container{
+    background-color: #c0f3fc;
+    padding-top: 50px;
+    position: relative;
+}
+.top-cloud{
+    position: absolute;
+    top: 45px;
+    right: 350px;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 350px;
+}
+.profail{
+    width: 300px;
+    margin-top: 20px;
+}
